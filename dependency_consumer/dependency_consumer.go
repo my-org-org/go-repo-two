@@ -7,8 +7,8 @@ import (
 )
 
 func PrintDependencyMessage() {
-	fmt.Println("go-repo-two. Release 3 $$$$$ : Use 1st repo")
+	fmt.Println("go-repo-two. Release 4 $$$$$ : Use 1st repo OLD NAME")
 	dependency.PrintDependencyMessage()
-	fmt.Println("go-repo-two. Release 3 !!!!!!!!!!!! : Dependency Consumer")
+	fmt.Println("go-repo-two. Release 4 !!!!!!!!!!!! : Dependency Consumer")
     internal.InternalFunction()
 }
