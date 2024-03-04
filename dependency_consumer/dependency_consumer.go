@@ -6,6 +6,6 @@ import (
 )
 
 func PrintDependencyMessage() {
-	fmt.Println("go-repo-two: Dependency Consumer")
+	fmt.Println("go-repo-two. Release 2 !!!!!!!!!!!! : Dependency Consumer")
     internal.InternalFunction()
 }
