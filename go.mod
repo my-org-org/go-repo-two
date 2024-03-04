@@ -1,4 +1,4 @@
-module github.com/my-org-for-test/go-repo-two
+module github.com/my-org-org/go-repo-two
 
 go 1.22
 
